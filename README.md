@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I'm 
-**xavierlopez/xavierlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Xavier.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on many things.
-
+- 🔭 I’m currently working on some exiticing stuff that I will update soon.
