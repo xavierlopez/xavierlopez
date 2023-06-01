@@ -3,8 +3,8 @@
 
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,mysql,mongodb,sqlite" />
- <img src="https://skillicons.dev/icons?i=aws,css,firebase,flask,java,jest,laravel,linux,express,nodejs,react" />
+ <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,mysql,mongodb,sqlite,aws" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,php,firebase,flask,java,jest,laravel,linux,express,nodejs,react" />
 </p>
  
  
